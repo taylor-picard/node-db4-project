@@ -1,7 +1,7 @@
 const recipes = [
     {recipe_name: 'Spaghetti'},
     {recipe_name: 'Tacos'},
-    {recipe_name: 'Banana Bread'}
+    {recipe_name: 'Banana Bread'},
 ]
 
 const ingredients = [
@@ -11,7 +11,7 @@ const ingredients = [
     {ingredient_name: 'Sugar', unit: 'c'},
     {ingredient_name: 'Seasoning', unit: 'pk'},
     {ingredient_name: 'Tomato Sauce', unit: 'oz'},
-    {ingredient_name: 'Tortillas', unit: 'pk'}
+    {ingredient_name: 'Tortillas', unit: 'pk'},
 ]
 
 const steps = [
